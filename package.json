@@ -1,0 +1,15 @@
+{
+  "name": "@nails/core",
+  "version": "0.0.1",
+  "description": "The core of nails framework that connects the rest together like a puzzle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tets"
+  },
+  "keywords": [
+    "core",
+    "framework"
+  ],
+  "author": "Kito Clark",
+  "license": "ISC"
+}
